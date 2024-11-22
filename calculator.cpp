@@ -3,7 +3,7 @@
 
 int main() {
     std::cout <<"Hello! It's calculator! Please, don't type character or word in number section!\n";
-    int n1, n2;
+    float n1, n2;
     std::string op;
     std::string stateYesOrNo;
 startAgain:
